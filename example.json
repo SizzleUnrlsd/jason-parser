@@ -1,0 +1,19 @@
+{
+  "name": "Sizzle",
+  "age": 30,
+  "city": "Paris",
+  "interest": [1, 42, 84],
+  "layers":[
+    {
+     "data":[1, 3, 131, 42, 42, 42424242, 84, 84248442, 1, 1214284, 8442211, 42, 84],
+     "height":169,
+     "id":1,
+     "title":"ground",
+     "opacity":1,
+     "type":"tilelayer",
+     "width":171,
+     "x":0,
+     "y":0
+    }]
+}
+  
